@@ -46,7 +46,7 @@
               },
 
           {
-              question : "Who were the New York Mets first manager?",
+              question : "Who was the New York Mets first manager?",
               answers  : ["Joe Torre", "Leo Durocher", "Casey Stengel", "Yogi Bera"],
               correct  : "Casey Stengel"
               },

@@ -59,10 +59,10 @@ h1{
 
 #questionForm.button{
   height:20px;
-  width:100px;
+  width:50%;
   margin: -20px -50px;
   position:relative;
-  top:50%;
+  top:1%;
   left:50%;
   font-family: 'Oswald', sans-serif;
 }
